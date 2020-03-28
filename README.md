@@ -8,8 +8,9 @@ How
 
 The repository contains the following information:
 
-DIY Face Shield. See instruction and BOM in faceshield/diy-faceshield-bom-and-instruction.pdf
-DIY Mask. Check out [Mask Force](https://maskforce.org). There is a scientific paper on the effectiveness of homemade mask in mask/davies2013.pdf
+- DIY Face Shield. See instruction and BOM in faceshield/diy-faceshield-bom-and-instruction.pdf
+- DIY Mask. Check out [Mask Force](https://maskforce.org). There is a scientific paper on the effectiveness of homemade mask in mask/davies2013.pdf
+  - [Mask Design with Hoover Hepa bag.](https://youtu.be/W6d3twpHwis)
 
 Whom
 =====
